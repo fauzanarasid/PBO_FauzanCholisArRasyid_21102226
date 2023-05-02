@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="com.Thorik.PBO.pertemuan3.Unguided1.Main " type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.Thorik.PBO.pertemuan3.Unguided1.Main" />
+    <module name="PBO-IF-09-O" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.Thorik.PBO.pertemuan3.Unguided1.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
