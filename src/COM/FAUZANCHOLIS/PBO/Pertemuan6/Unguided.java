@@ -25,7 +25,7 @@ public class Unguided {
         } catch (InputMismatchException e) {
             System.out.println("Terjadi kesalahan : Input tidak valid, Harap masukan bilangan bulat.");
         } catch (Exception e) {
-            System.out.println("Terjadi Kesalahan : " + e.getMessage());2
+            System.out.println("Terjadi Kesalahan : " + e.getMessage());
         } finally {
             scanner.close();
         }
